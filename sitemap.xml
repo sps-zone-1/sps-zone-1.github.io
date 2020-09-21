@@ -3,23 +3,46 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>sps-zone-1.github.io/agb/</loc>
+    <loc>sps-zone-1.github.io/docs/</loc>
+    <lastmod>2018-11-28T15:14:39+10:00</lastmod>
   </url>
   
   <url>
-    <loc>sps-zone-1.github.io/blog/</loc>
+    <loc>sps-zone-1.github.io/docs/install-hugo/</loc>
+    <lastmod>2019-02-11T19:27:37+10:00</lastmod>
   </url>
   
   <url>
-    <loc>sps-zone-1.github.io/blog/first/</loc>
+    <loc>sps-zone-1.github.io/docs/install-theme/</loc>
+    <lastmod>2019-02-11T19:27:37+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>sps-zone-1.github.io/docs/configure/</loc>
+    <lastmod>2019-02-11T19:30:08+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>sps-zone-1.github.io/docs/specimen/</loc>
+    <lastmod>2019-02-11T19:27:37+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>sps-zone-1.github.io/docs/example/</loc>
+    <lastmod>2019-02-11T19:27:37+10:00</lastmod>
   </url>
   
   <url>
     <loc>sps-zone-1.github.io/</loc>
+    <lastmod>2018-11-28T15:14:39+10:00</lastmod>
   </url>
   
   <url>
-    <loc>sps-zone-1.github.io/blog/second/</loc>
+    <loc>sps-zone-1.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>sps-zone-1.github.io/tags/</loc>
   </url>
   
 </urlset>
