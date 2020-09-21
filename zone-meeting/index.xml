@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fall 2020 Zone 1 Meeting on SPS Zone 1</title>
+    <link>http://sps-zone-1.github.io/zone-meeting/</link>
+    <description>Recent content in Fall 2020 Zone 1 Meeting on SPS Zone 1</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 21 Sep 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://sps-zone-1.github.io/zone-meeting/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Agenda</title>
+      <link>http://sps-zone-1.github.io/zone-meeting/agenda/</link>
+      <pubDate>Mon, 21 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://sps-zone-1.github.io/zone-meeting/agenda/</guid>
+      <description>Events spanning Oct 23, 24. Socializing, research presentations, keynote, panels..</description>
+    </item>
+    
+    <item>
+      <title>Papers</title>
+      <link>http://sps-zone-1.github.io/zone-meeting/paper-gallery/</link>
+      <pubDate>Mon, 21 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://sps-zone-1.github.io/zone-meeting/paper-gallery/</guid>
+      <description>View submitted papers, and learn how to submit your own paper!</description>
+    </item>
+    
+    <item>
+      <title>Announcements</title>
+      <link>http://sps-zone-1.github.io/zone-meeting/announcements/</link>
+      <pubDate>Mon, 21 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://sps-zone-1.github.io/zone-meeting/announcements/</guid>
+      <description>Urgent announcements!</description>
+    </item>
+    
+  </channel>
+</rss>

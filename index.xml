@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hugo Whisper Docs on SPS Zone 1</title>
+    <title>SPS Zone 1</title>
     <link>http://sps-zone-1.github.io/</link>
-    <description>Recent content in Hugo Whisper Docs on SPS Zone 1</description>
+    <description>Recent content on SPS Zone 1</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate>
@@ -12,50 +12,84 @@
     
     
     <item>
-      <title>Install Hugo</title>
-      <link>http://sps-zone-1.github.io/docs/install-hugo/</link>
-      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
+      <title>Agenda</title>
+      <link>http://sps-zone-1.github.io/zone-meeting/agenda/</link>
+      <pubDate>Mon, 21 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://sps-zone-1.github.io/docs/install-hugo/</guid>
-      <description>To use this theme you will need to have Hugo installed. If you don&amp;rsquo;t already have Hugo installed please follow the official installation guide
-Check Hugo Version This theme uses Hugo Pipes to compile SCSS and minify assets.</description>
+      <guid>http://sps-zone-1.github.io/zone-meeting/agenda/</guid>
+      <description>Events spanning Oct 23, 24. Socializing, research presentations, keynote, panels..</description>
     </item>
     
     <item>
-      <title>Install Theme</title>
-      <link>http://sps-zone-1.github.io/docs/install-theme/</link>
+      <title>Zone 1 SPS Clubs</title>
+      <link>http://sps-zone-1.github.io/contact/sps-clubs/</link>
       <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
       
-      <guid>http://sps-zone-1.github.io/docs/install-theme/</guid>
-      <description>Create a new Hugo site hugo new site mynewsite This will create a fresh Hugo site in the folder mynewsite.
-Install theme Copy or git clone this theme into the sites themes folder mynewsite/themes</description>
+      <guid>http://sps-zone-1.github.io/contact/sps-clubs/</guid>
+      <description>Here is a list of the websites and contact information of the SPS Clubs in Zone 1.</description>
     </item>
     
     <item>
-      <title>Configuration</title>
-      <link>http://sps-zone-1.github.io/docs/configure/</link>
-      <pubDate>Mon, 11 Feb 2019 19:30:08 +1000</pubDate>
+      <title>Papers</title>
+      <link>http://sps-zone-1.github.io/zone-meeting/paper-gallery/</link>
+      <pubDate>Mon, 21 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://sps-zone-1.github.io/docs/configure/</guid>
-      <description>Syntax highlighting and menus can be configured via &lt;code&gt;config.toml&lt;/code&gt;.</description>
+      <guid>http://sps-zone-1.github.io/zone-meeting/paper-gallery/</guid>
+      <description>View submitted papers, and learn how to submit your own paper!</description>
     </item>
     
     <item>
-      <title>Specimen</title>
-      <link>http://sps-zone-1.github.io/docs/specimen/</link>
-      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
+      <title>Research</title>
+      <link>http://sps-zone-1.github.io/resources/research/</link>
+      <pubDate>Mon, 21 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://sps-zone-1.github.io/docs/specimen/</guid>
-      <description>Markdown Test Page  Headings Paragraphs Blockquotes Lists Horizontal rule Table Code Inline elements   Headings Heading one Sint sit cillum pariatur eiusmod nulla pariatur ipsum. Sit laborum anim qui mollit tempor pariatur nisi minim dolor.</description>
+      <guid>http://sps-zone-1.github.io/resources/research/</guid>
+      <description>Need help getting started with research, look no further!</description>
     </item>
     
     <item>
-      <title>Hugo Whisper</title>
-      <link>http://sps-zone-1.github.io/docs/example/</link>
+      <title>Underrepresented Groups</title>
+      <link>http://sps-zone-1.github.io/resources/underrepresented-groups/</link>
+      <pubDate>Mon, 21 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://sps-zone-1.github.io/resources/underrepresented-groups/</guid>
+      <description>Representation matters, see how you can help foster a diverse and inclusive environment in your own club!</description>
+    </item>
+    
+    <item>
+      <title>Counselors</title>
+      <link>http://sps-zone-1.github.io/contact/counselors/</link>
       <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
       
-      <guid>http://sps-zone-1.github.io/docs/example/</guid>
-      <description>&lt;p&gt;Whisper is a minimal documentation theme built for Hugo. The design &amp;amp; functionality is intentionally minimal.&lt;/p&gt;</description>
+      <guid>http://sps-zone-1.github.io/contact/counselors/</guid>
+      <description>About the Zone 1 Counselor, Assistant Zone 1 Counselor!</description>
+    </item>
+    
+    <item>
+      <title>Announcements</title>
+      <link>http://sps-zone-1.github.io/zone-meeting/announcements/</link>
+      <pubDate>Mon, 21 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://sps-zone-1.github.io/zone-meeting/announcements/</guid>
+      <description>Urgent announcements!</description>
+    </item>
+    
+    <item>
+      <title>Career</title>
+      <link>http://sps-zone-1.github.io/resources/career/</link>
+      <pubDate>Mon, 21 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://sps-zone-1.github.io/resources/career/</guid>
+      <description>What comes after long nights of physics problems and sugary drinks? Learn more!</description>
+    </item>
+    
+    <item>
+      <title>Outreach</title>
+      <link>http://sps-zone-1.github.io/resources/outreach/</link>
+      <pubDate>Mon, 21 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://sps-zone-1.github.io/resources/outreach/</guid>
+      <description>Give back to your community through your own SPS club!</description>
     </item>
     
   </channel>

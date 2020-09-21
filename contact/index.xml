@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contact Us! on SPS Zone 1</title>
+    <link>http://sps-zone-1.github.io/contact/</link>
+    <description>Recent content in Contact Us! on SPS Zone 1</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate>
+    
+	<atom:link href="http://sps-zone-1.github.io/contact/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Zone 1 SPS Clubs</title>
+      <link>http://sps-zone-1.github.io/contact/sps-clubs/</link>
+      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
+      
+      <guid>http://sps-zone-1.github.io/contact/sps-clubs/</guid>
+      <description>Here is a list of the websites and contact information of the SPS Clubs in Zone 1.</description>
+    </item>
+    
+    <item>
+      <title>Counselors</title>
+      <link>http://sps-zone-1.github.io/contact/counselors/</link>
+      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
+      
+      <guid>http://sps-zone-1.github.io/contact/counselors/</guid>
+      <description>About the Zone 1 Counselor, Assistant Zone 1 Counselor!</description>
+    </item>
+    
+  </channel>
+</rss>

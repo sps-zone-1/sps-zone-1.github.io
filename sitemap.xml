@@ -3,33 +3,68 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://sps-zone-1.github.io/docs/</loc>
+    <loc>http://sps-zone-1.github.io/zone-meeting/</loc>
+    <lastmod>2020-09-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://sps-zone-1.github.io/resources/</loc>
+    <lastmod>2020-09-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://sps-zone-1.github.io/contact/</loc>
     <lastmod>2018-11-28T15:14:39+10:00</lastmod>
   </url>
   
   <url>
-    <loc>http://sps-zone-1.github.io/docs/install-hugo/</loc>
+    <loc>http://sps-zone-1.github.io/zone-meeting/agenda/</loc>
+    <lastmod>2020-09-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://sps-zone-1.github.io/contact/sps-clubs/</loc>
     <lastmod>2019-02-11T19:27:37+10:00</lastmod>
   </url>
   
   <url>
-    <loc>http://sps-zone-1.github.io/docs/install-theme/</loc>
+    <loc>http://sps-zone-1.github.io/zone-meeting/paper-gallery/</loc>
+    <lastmod>2020-09-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://sps-zone-1.github.io/resources/research/</loc>
+    <lastmod>2020-09-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://sps-zone-1.github.io/resources/underrepresented-groups/</loc>
+    <lastmod>2020-09-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://sps-zone-1.github.io/contact/counselors/</loc>
     <lastmod>2019-02-11T19:27:37+10:00</lastmod>
   </url>
   
   <url>
-    <loc>http://sps-zone-1.github.io/docs/configure/</loc>
-    <lastmod>2019-02-11T19:30:08+10:00</lastmod>
+    <loc>http://sps-zone-1.github.io/zone-meeting/announcements/</loc>
+    <lastmod>2020-09-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://sps-zone-1.github.io/docs/specimen/</loc>
-    <lastmod>2019-02-11T19:27:37+10:00</lastmod>
+    <loc>http://sps-zone-1.github.io/resources/grad-apps/</loc>
+    <lastmod>2020-09-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://sps-zone-1.github.io/docs/example/</loc>
-    <lastmod>2019-02-11T19:27:37+10:00</lastmod>
+    <loc>http://sps-zone-1.github.io/resources/career/</loc>
+    <lastmod>2020-09-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://sps-zone-1.github.io/resources/outreach/</loc>
+    <lastmod>2020-09-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>

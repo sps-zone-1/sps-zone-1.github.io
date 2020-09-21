@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Resources on SPS Zone 1</title>
+    <link>http://sps-zone-1.github.io/resources/</link>
+    <description>Recent content in Resources on SPS Zone 1</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 21 Sep 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://sps-zone-1.github.io/resources/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Research</title>
+      <link>http://sps-zone-1.github.io/resources/research/</link>
+      <pubDate>Mon, 21 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://sps-zone-1.github.io/resources/research/</guid>
+      <description>Need help getting started with research, look no further!</description>
+    </item>
+    
+    <item>
+      <title>Underrepresented Groups</title>
+      <link>http://sps-zone-1.github.io/resources/underrepresented-groups/</link>
+      <pubDate>Mon, 21 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://sps-zone-1.github.io/resources/underrepresented-groups/</guid>
+      <description>Representation matters, see how you can help foster a diverse and inclusive environment in your own club!</description>
+    </item>
+    
+    <item>
+      <title>Career</title>
+      <link>http://sps-zone-1.github.io/resources/career/</link>
+      <pubDate>Mon, 21 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://sps-zone-1.github.io/resources/career/</guid>
+      <description>What comes after long nights of physics problems and sugary drinks? Learn more!</description>
+    </item>
+    
+    <item>
+      <title>Outreach</title>
+      <link>http://sps-zone-1.github.io/resources/outreach/</link>
+      <pubDate>Mon, 21 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://sps-zone-1.github.io/resources/outreach/</guid>
+      <description>Give back to your community through your own SPS club!</description>
+    </item>
+    
+  </channel>
+</rss>
