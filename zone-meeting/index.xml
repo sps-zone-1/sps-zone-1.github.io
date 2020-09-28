@@ -21,21 +21,12 @@
     </item>
     
     <item>
-      <title>Papers</title>
-      <link>http://sps-zone-1.github.io/zone-meeting/paper-gallery/</link>
+      <title>Abstracts</title>
+      <link>http://sps-zone-1.github.io/zone-meeting/abstract-gallery/</link>
       <pubDate>Mon, 21 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://sps-zone-1.github.io/zone-meeting/paper-gallery/</guid>
+      <guid>http://sps-zone-1.github.io/zone-meeting/abstract-gallery/</guid>
       <description>View submitted papers, and learn how to submit your own paper!</description>
-    </item>
-    
-    <item>
-      <title>Announcements</title>
-      <link>http://sps-zone-1.github.io/zone-meeting/announcements/</link>
-      <pubDate>Mon, 21 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>http://sps-zone-1.github.io/zone-meeting/announcements/</guid>
-      <description>Urgent announcements!</description>
     </item>
     
   </channel>
